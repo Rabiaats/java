@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArmstrongSayi/ArmstrongSayi.iml" filepath="$PROJECT_DIR$/ArmstrongSayi/ArmstrongSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayElementsFrequency/ArrayElementsFrequency.iml" filepath="$PROJECT_DIR$/ArrayElementsFrequency/ArrayElementsFrequency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayElementsHarmonicAverage/ArrayElementsHarmonicAverage.iml" filepath="$PROJECT_DIR$/ArrayElementsHarmonicAverage/ArrayElementsHarmonicAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayElementsRecurrent/ArrayElementsRecurrent.iml" filepath="$PROJECT_DIR$/ArrayElementsRecurrent/ArrayElementsRecurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayMatrisBLetter/ArrayMatrisBLetter.iml" filepath="$PROJECT_DIR$/ArrayMatrisBLetter/ArrayMatrisBLetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayMatrisTranspozu/ArrayMatrisTranspozu.iml" filepath="$PROJECT_DIR$/ArrayMatrisTranspozu/ArrayMatrisTranspozu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtmProjesi/AtmProjesi.iml" filepath="$PROJECT_DIR$/AtmProjesi/AtmProjesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasamakSayilarininToplami/BasamakSayilarininToplami.iml" filepath="$PROJECT_DIR$/BasamakSayilarininToplami/BasamakSayilarininToplami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BelirliSinirlardakiAsalSayi/BelirliSinirlardakiAsalSayi.iml" filepath="$PROJECT_DIR$/BelirliSinirlardakiAsalSayi/BelirliSinirlardakiAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BirVeYuzArasindakiAsalSayilar/BirVeYuzArasindakiAsalSayilar.iml" filepath="$PROJECT_DIR$/BirVeYuzArasindakiAsalSayilar/BirVeYuzArasindakiAsalSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Continue/Continue.iml" filepath="$PROJECT_DIR$/Continue/Continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DortVeBesinKuvvetleri/DortVeBesinKuvvetleri.iml" filepath="$PROJECT_DIR$/DortVeBesinKuvvetleri/DortVeBesinKuvvetleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/EbobEkok/EbobEkok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/FibonacciSerisi/FibonacciSerisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" filepath="$PROJECT_DIR$/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GirilenSayiyaArraydekiEnYakinKucukVeBuyukSayi/GirilenSayiyaArraydekiEnYakinKucukVeBuyukSayi.iml" filepath="$PROJECT_DIR$/GirilenSayiyaArraydekiEnYakinKucukVeBuyukSayi/GirilenSayiyaArraydekiEnYakinKucukVeBuyukSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HarfTekrariKacKez/HarfTekrariKacKez.iml" filepath="$PROJECT_DIR$/HarfTekrariKacKez/HarfTekrariKacKez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HarmonikHesaplama/HarmonikHesaplama.iml" filepath="$PROJECT_DIR$/HarmonikHesaplama/HarmonikHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceBookSorter/InterfaceBookSorter.iml" filepath="$PROJECT_DIR$/InterfaceBookSorter/InterfaceBookSorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsPalindromicWord/IsPalindromicWord.iml" filepath="$PROJECT_DIR$/IsPalindromicWord/IsPalindromicWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KullanicidanNTaneSayiAlma/KullanicidanNTaneSayiAlma.iml" filepath="$PROJECT_DIR$/KullanicidanNTaneSayiAlma/KullanicidanNTaneSayiAlma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatchFixtures/MatchFixtures.iml" filepath="$PROJECT_DIR$/MatchFixtures/MatchFixtures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathRandom/MathRandom.iml" filepath="$PROJECT_DIR$/MathRandom/MathRandom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberGuessGame/NumberGuessGame.iml" filepath="$PROJECT_DIR$/NumberGuessGame/NumberGuessGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP.JavaSwing.Patika.Dev/OOP.JavaSwing.Patika.Dev.iml" filepath="$PROJECT_DIR$/OOP.JavaSwing.Patika.Dev/OOP.JavaSwing.Patika.Dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPBoksGame/OOPBoksGame.iml" filepath="$PROJECT_DIR$/OOPBoksGame/OOPBoksGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPBookList/OOPBookList.iml" filepath="$PROJECT_DIR$/OOPBookList/OOPBookList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPGenericMyListClass/OOPGenericMyListClass.iml" filepath="$PROJECT_DIR$/OOPGenericMyListClass/OOPGenericMyListClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPMaasHesaplayici/OOPMaasHesaplayici.iml" filepath="$PROJECT_DIR$/OOPMaasHesaplayici/OOPMaasHesaplayici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPMineField/OOPMineField.iml" filepath="$PROJECT_DIR$/OOPMineField/OOPMineField.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSortingArray/OOPSortingArray.iml" filepath="$PROJECT_DIR$/OOPSortingArray/OOPSortingArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPStudentInformationSystem/OOPStudentInformationSystem.iml" filepath="$PROJECT_DIR$/OOPStudentInformationSystem/OOPStudentInformationSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ortalama _Hesaplama/Ortalama _Hesaplama.iml" filepath="$PROJECT_DIR$/Ortalama _Hesaplama/Ortalama _Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveMetodileSayiDongusu/RecursiveMetodileSayiDongusu.iml" filepath="$PROJECT_DIR$/RecursiveMetodileSayiDongusu/RecursiveMetodileSayiDongusu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveMetotileAsalSayi/RecursiveMetotileAsalSayi.iml" filepath="$PROJECT_DIR$/RecursiveMetotileAsalSayi/RecursiveMetotileAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveMetotveUslusayi/RecursiveMetotveUslusayi.iml" filepath="$PROJECT_DIR$/RecursiveMetotveUslusayi/RecursiveMetotveUslusayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiGirmeDongusu/SayiGirmeDongusu.iml" filepath="$PROJECT_DIR$/SayiGirmeDongusu/SayiGirmeDongusu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringClass/StringClass.iml" filepath="$PROJECT_DIR$/StringClass/StringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TersUcgen/TersUcgen.iml" filepath="$PROJECT_DIR$/TersUcgen/TersUcgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UcVeDordeBolunenSayilarinOrt/UcVeDordeBolunenSayilarinOrt.iml" filepath="$PROJECT_DIR$/UcVeDordeBolunenSayilarinOrt/UcVeDordeBolunenSayilarinOrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UcakBiletiHesaplama/UcakBiletiHesaplama.iml" filepath="$PROJECT_DIR$/UcakBiletiHesaplama/UcakBiletiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsluSayiHesaplama/UsluSayiHesaplama.iml" filepath="$PROJECT_DIR$/UsluSayiHesaplama/UsluSayiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileIleUcgenYapimi/WhileIleUcgenYapimi.iml" filepath="$PROJECT_DIR$/WhileIleUcgenYapimi/WhileIleUcgenYapimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YildizlarlaElmasYapimi/YildizlarlaElmasYapimi.iml" filepath="$PROJECT_DIR$/YildizlarlaElmasYapimi/YildizlarlaElmasYapimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/artikYilHesaplama/artikYilHesaplama.iml" filepath="$PROJECT_DIR$/artikYilHesaplama/artikYilHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burcyazanprogram/burcyazanprogram.iml" filepath="$PROJECT_DIR$/burcyazanprogram/burcyazanprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinzodyagi/cinzodyagi.iml" filepath="$PROJECT_DIR$/cinzodyagi/cinzodyagi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dairedilimininalani/dairedilimininalani.iml" filepath="$PROJECT_DIR$/dairedilimininalani/dairedilimininalani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daireninalanicevresi/daireninalanicevresi.iml" filepath="$PROJECT_DIR$/daireninalanicevresi/daireninalanicevresi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dowhilesifre/dowhilesifre.iml" filepath="$PROJECT_DIR$/dowhilesifre/dowhilesifre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faktoriyel/faktoriyel.iml" filepath="$PROJECT_DIR$/faktoriyel/faktoriyel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for110/for110.iml" filepath="$PROJECT_DIR$/for110/for110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forilebuyukucukharfnoktalamaaynikalsin/forilebuyukucukharfnoktalamaaynikalsin.iml" filepath="$PROJECT_DIR$/forilebuyukucukharfnoktalamaaynikalsin/forilebuyukucukharfnoktalamaaynikalsin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/havasicakliginagoreetkinlik/havasicakliginagoreetkinlik.iml" filepath="$PROJECT_DIR$/havasicakliginagoreetkinlik/havasicakliginagoreetkinlik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j101/j101.iml" filepath="$PROJECT_DIR$/j101/j101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-assignments.iml" filepath="$PROJECT_DIR$/.idea/java-assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdvhesaplama/kdvhesaplama.iml" filepath="$PROJECT_DIR$/kdvhesaplama/kdvhesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kombinasyon/kombinasyon.iml" filepath="$PROJECT_DIR$/kombinasyon/kombinasyon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kucukleribuyukharfyapwhileile/kucukleribuyukharfyapwhileile.iml" filepath="$PROJECT_DIR$/kucukleribuyukharfyapwhileile/kucukleribuyukharfyapwhileile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kullanicigirisi/kullanicigirisi.iml" filepath="$PROJECT_DIR$/kullanicigirisi/kullanicigirisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manavkasa/manavkasa.iml" filepath="$PROJECT_DIR$/manavkasa/manavkasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ortalama_hesaplama_notaraligi/ortalama_hesaplama_notaraligi.iml" filepath="$PROJECT_DIR$/ortalama_hesaplama_notaraligi/ortalama_hesaplama_notaraligi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchcasehesapmakinesi/switchcasehesapmakinesi.iml" filepath="$PROJECT_DIR$/switchcasehesapmakinesi/switchcasehesapmakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taksimetre/taksimetre.iml" filepath="$PROJECT_DIR$/taksimetre/taksimetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucgenalani/ucgenalani.iml" filepath="$PROJECT_DIR$/ucgenalani/ucgenalani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucgenkenari/ucgenkenari.iml" filepath="$PROJECT_DIR$/ucgenkenari/ucgenkenari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucsayiyikucuktenbuyugesiralama/ucsayiyikucuktenbuyugesiralama.iml" filepath="$PROJECT_DIR$/ucsayiyikucuktenbuyugesiralama/ucsayiyikucuktenbuyugesiralama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vucutkitleindeksi/vucutkitleindeksi.iml" filepath="$PROJECT_DIR$/vucutkitleindeksi/vucutkitleindeksi.iml" />
+    </modules>
+  </component>
+</project>
