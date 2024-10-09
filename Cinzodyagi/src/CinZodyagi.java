@@ -7,45 +7,45 @@ public class CinZodyagi {
 
         System.out.print("Doğduğunuz yıl :");
         short year = years.nextShort();
+        String zodiacSign = "";
 
         switch (year % 12){
-
             case 1:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Horoz");
+                zodiacSign = "Horoz";
                 break;
             case 2:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Köpek");
+                zodiacSign = "Köpek";
                 break;
             case 3:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Domuz");
+                zodiacSign = "Domuz";
                 break;
             case 4:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Fare");
+                zodiacSign = "Fare";
                 break;
             case 5:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Öküz");
+                zodiacSign = "Öküz";
                 break;
             case 6:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Kaplan");
+                zodiacSign = "Kaplan";
                 break;
             case 7:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Tavşan");
+                zodiacSign = "Tavşan";
                 break;
             case 8:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Ejderha");
+                zodiacSign = "Ejderha";
                 break;
             case 9:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Yılan");
+                zodiacSign = "Yılan";
                 break;
             case 10:
-                System.out.print("Çin Zodyağı Burcunuz :" + "At");
+                zodiacSign = "At";
                 break;
             case 11:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Koyun");
+                zodiacSign = "Koyun";
                 break;
             default:
-                System.out.print("Çin Zodyağı Burcunuz :" + "Maymun");
-
+                zodiacSign = "Maymun";
         }
+        System.out.print("Çin Zodyağı Burcunuz : " + zodiacSign);
     }
 }

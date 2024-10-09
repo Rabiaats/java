@@ -78,6 +78,7 @@ public class EducatorGUI extends JFrame{
                 }
             }
         });
+
         //Delete
         btn_content_delete.addActionListener(e -> {
             if (Helper.isFieldEmpty(fld_content_delete_id)){
